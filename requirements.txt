@@ -1,0 +1,18 @@
+# Core Jupyter & Quarto requirements
+jupyter
+nbformat
+nbclient
+
+# Data Sourcing & Wrangling
+pandas
+numpy
+requests
+
+# Visualisation (Stage 4)
+matplotlib
+seaborn
+plotly
+
+# Machine Learning (Stage 5)
+scikit-learn
+statsmodels
