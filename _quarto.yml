@@ -10,17 +10,17 @@ website:
       - text: "Project Stages"
         menu:
           - text: "1. Data Sourcing"
-            file: 1-Data-Sourcing/*.ipynb
+            file: 1-Data-Sourcing/Data-Sourcing.ipynb
           - text: "2. Preliminary EDA"
-            file: 2-Preliminary-EDA/*.ipynb
+            file: 2-Preliminary-EDA/Preliminary-EDA.ipynb
           - text: "3. Data Wrangling"
-            file: 3-Data-Wrangling/*.ipynb
+            file: 3-Data-Wrangling/Data-Wrangling.ipynb
           - text: "4. Preprocessing"
-            file: 4-Data-preprocessing/*.ipynb
+            file: 4-Data-preprocessing/Data-Preprocessing.ipynb
           - text: "5. Predictive Modelling"
-            file: 5-Predictive Modelling/*.ipynb
-      - href: Full-Project/*.ipynb
-        text: "Full Project"
+            file: 5-Predictive Modelling/Predictive_modelling.ipynb
+      - text: "Full Project"
+        file: Full-Project/*.ipynb
 
 format:
   html:
