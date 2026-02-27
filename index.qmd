@@ -1,0 +1,37 @@
+---
+title: "Project Lab 2026"
+subtitle: "University Data Science Society | UCL"
+---
+
+# 🚀 Welcome to the Project Lab
+
+This repository serves as the central hub for our **Data Science Project Lab**. Designed for students to tinker, learn, and observe a full end-to-end data pipeline in action, this is a living project that evolves with our members.
+
+Our goal is to provide a **"Gold Standard" template**—a blueprint that you can use for your own independent research and future professional portfolios.
+
+---
+
+## 🛠️ The Five Stages of Data Science
+
+Our lab is organized into five core stages that mirror the professional data science lifecycle:
+
+1.  **Data Sourcing** Connecting to datasets via APIs or hosted CSVs to build a reliable foundation.
+2.  **Preliminary EDA** Understanding data distributions and performing essential "health checks" on our raw information.
+3.  **Data Wrangling** The "heavy lifting" of cleaning, feature engineering, and prepping data for high-performance models.
+4.  **Advanced Visualisation** Interactive storytelling to turn dry numbers into compelling insights using Plotly and PowerBI concepts.
+5.  **Machine Learning** Implementing everything from baseline statistics to advanced predictive models.
+
+---
+
+## 💻 Contributing to the "Gold Standard"
+
+To maintain the quality of our master template, we follow a professional peer-review workflow. If you want to contribute:
+
+* **Step 1:** Access our notebooks via the **Google Colab** links found in the technical pages.
+* **Step 2:** Work on a separate **Branch**. Never save directly to `main`—this keeps our production code safe!
+* **Step 3:** Submit a **Pull Request (PR)** on GitHub. 
+* **Step 4:** Join the review process. The Project Lead will review your logic before merging it into the master template.
+
+---
+
+*Ready to start? Use the navigation menu to explore our current progress in **Data Sourcing** or **Preliminary EDA**.*

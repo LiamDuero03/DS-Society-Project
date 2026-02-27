@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "DSS Project Lab 2026"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Project Stages"
+        menu:
+          - text: "1. Data Sourcing"
+            file: 1-Data-Sourcing/*.ipynb
+          - text: "2. Preliminary EDA"
+            file: 2-Preliminary-EDA/*.ipynb
+          - text: "3. Data Wrangling"
+            file: 3-Data-Wrangling/*.ipynb
+          - text: "4. Preprocessing"
+            file: 4-Data-preprocessing/*.ipynb
+          - text: "5. Predictive Modelling"
+            file: 5-Predictive Modelling/*.ipynb
+      - href: Full-Project/*.ipynb
+        text: "Full Project"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
