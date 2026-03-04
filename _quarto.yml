@@ -19,8 +19,7 @@ website:
             file: 4-Data-preprocessing/Data-Preprocessing.ipynb
           - text: "5. Predictive Modelling"
             file: 5-Predictive Modelling/Predictive_modelling.ipynb
-      - text: "Full Project"
-        file: Full-Project/*.ipynb
+    
 
 format:
   html:
